@@ -1,0 +1,144 @@
+-----------Run application Details on  3/14/2022 5:46:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:41 AM
+
+Error Message: select item to add to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:46:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:41 AM
+
+Error Message:  item  added to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:46:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:41 AM
+
+Error Message: redraw list item
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:46:44 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:44 AM
+
+Error Message: select item to add to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:46:44 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:44 AM
+
+Error Message:  item  added to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:46:44 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:46:44 AM
+
+Error Message: redraw list item
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:51:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:51:38 AM
+
+Error Message: select item to add to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:51:53 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:51:53 AM
+
+Error Message:  item  added to payment list
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Run application Details on  3/14/2022 5:54:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 3/14/2022 5:54:28 AM
+
+Error Message: redraw list item
+
+ Error Page Url: MessageDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+

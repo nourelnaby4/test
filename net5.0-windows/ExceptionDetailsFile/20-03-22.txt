@@ -1,0 +1,22 @@
+-----------Exception Details on  20/03/2022 03:08:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20/03/2022 03:08:23
+
+Error Line No : ne 1537
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+

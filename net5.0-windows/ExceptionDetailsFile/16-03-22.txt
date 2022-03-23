@@ -1,0 +1,264 @@
+-----------Exception Details on  16/03/2022 01:24:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 01:24:20
+
+Error Line No : ne 1788
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 01:24:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 01:24:35
+
+Error Line No : ne 1788
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 01:26:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 01:26:04
+
+Error Line No : ne 1788
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:24:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:24:47
+
+Error Line No : ne 5830
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:24:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:24:51
+
+Error Line No : ne 5830
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:24:58-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:24:58
+
+Error Line No : ne 5830
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:28:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:28:03
+
+Error Line No : ne 5831
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:29:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:29:11
+
+Error Line No : ne 5831
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:33:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:33:04
+
+Error Line No : ne 5831
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:34:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:34:12
+
+Error Line No : ne 5833
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:35:08-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:35:08
+
+Error Line No : ne 5833
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16/03/2022 05:41:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16/03/2022 05:41:24
+
+Error Line No : ne 5833
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Collection was modified; enumeration operation may not execute.
+
+ Error Page Url: ExceptionDetailsFile\
+
+
+--------------------------------*End*------------------------------------------
+
+
+
